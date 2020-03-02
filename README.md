@@ -1,11 +1,11 @@
 # PCA
-[PCA.py](http://github.com/demonlord1997/algorithm/PCA/PCA.py)
+[PCA.py](https://github.com/demonlord1997/algorithm/blob/master/PCA/PCA.py)
 ![PCA.png](PCA/PCA.png)
 
 # LDA
-[LDA.py](http://github.com/demonlord1997/algorithm/LDA/LDA.py)
+[LDA.py](https://github.com/demonlord1997/algorithm/blob/master/LDA/LDA.py)
 ![LDA.png](LDA/LDA.png)
 
 # FastICA
-[FastICA.py](http://github.com/demonlord1997/algorithm/FastICA/FastICA.py)
+[FastICA.py](https://github.com/demonlord1997/algorithm/blob/master/FastICA/FastICA.py)
 ![FastICA.png](FastICA/FastICA.png)
