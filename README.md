@@ -14,6 +14,6 @@
 ![FastICA.png](FastICA/FastICA.png)
 
 # The use of TSNE
-[Tsne.py](https://github.com/demonlord1997/algorithm/blob/master/The%20use%20of%20TSNE/Tsne.py)
+[The use of Tsne(sklearn)](https://github.com/demonlord1997/algorithm/blob/master/The%20use%20of%20TSNE/Tsne.py)
 
 ![TSNEbest.png](The%20use%20of%20TSNE/TSNEbest.png)
