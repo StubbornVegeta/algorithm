@@ -7,8 +7,8 @@
 ##########################################################################
 import numpy as np
 import matplotlib.pyplot as plt
-import scipy.linalg as linalg
-from mpl_toolkits.mplot3d import Axes3D
+# import scipy.linalg as linalg
+# from mpl_toolkits.mplot3d import Axes3D
 
 def csp(X1,X2):
     X1     =  X1 - np.mean(X1, axis=2, keepdims=True)
