@@ -1,7 +1,7 @@
 # CSP
 
 $$
-X_1^{(i)} = X_1^{(i)} - \text{mean}\left(X_1^{(i)},axis=1\right)\\
+X_1^{(i)} = X_1^{(i)} - \text{mean}\left(X_1^{(i)},axis=1\right)
 $$
 
 $$
