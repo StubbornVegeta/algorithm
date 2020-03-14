@@ -22,3 +22,8 @@
 [csp.py](https://github.com/demonlord1997/algorithm/blob/master/CSP/csp.py)
 
 [CSP equation](https://github.com/demonlord1997/algorithm/blob/master/CSP/README.md)
+
+# Bayes
+[Bayes.py](./Bayes/Bayes.py)
+
+![Bayes.png](./Bayes/bayes.png)
