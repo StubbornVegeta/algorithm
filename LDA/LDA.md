@@ -12,10 +12,10 @@ $$
 \text{协方差矩阵：}\Sigma_i=\sum_{x \in X_i}(x-\mu_i)(x-\mu_i)^T
 $$
 $$
-\text{组内散度：}\Sigma_w = \sum_{i \in Y}{\Sigma_i}
+\text{组内散度：}S_w = \sum_{i \in Y}{\Sigma_i}
 $$
 $$
-\text{组间散度：}\Sigma_b =\sum_{i \in Y}{(u_i-u)(u_i-u)^T}\\
+\text{组间散度：}S_b =\sum_{i \in Y}{(u_i-u)(u_i-u)^T}\\
 u = \text{mean}(u_i)
 $$
 
