@@ -27,3 +27,11 @@
 [Bayes.py](./Bayes/Bayes.py)
 
 ![Bayes.png](./Bayes/bayes.png)
+
+# SVM
+[SVM](./SVM/README.md)
+
+[svm.py](./SVM/svm.py)
+
+![SVM.png](./SVM/svm.png)
+
